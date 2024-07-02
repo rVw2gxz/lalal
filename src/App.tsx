@@ -11,6 +11,7 @@ function App() {
         <div className='box flex1'>
             new Privet
        </div>
+
     </div>
   )
 }
