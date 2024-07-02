@@ -9,9 +9,8 @@ function App() {
   return (
     <div className='wrap'>
         <div className='box flex1'>
-            new Privet
+            new Privet3123131321313131
         </div>
-       
     </div>
   )
 }
