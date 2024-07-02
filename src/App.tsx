@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='wrap'>
         <div className='box flex1'>
-            s
+            new Privet
         </div>
        
     </div>
