@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
+
 import React from 'react'
 
 function App() {
@@ -9,9 +10,9 @@ function App() {
   return (
     <div className='wrap'>
         <div className='box flex1'>
-            new aaaaaaaaaaaaaaaaaaaaa
-       </div>
-
+            s
+            new Privet3123131321313131
+        </div>
     </div>
   )
 }
